@@ -1,0 +1,10 @@
+name: newtonRaphsonMethodEnv
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - sympy
+  - ipykernel
+  - matplotlib
+prefix: C:\Users\JESUS ALAN\.conda\envs\newtonRaphsonMethodEnv
