@@ -7,4 +7,3 @@ dependencies:
   - sympy
   - ipykernel
   - matplotlib
-prefix: C:\Users\JESUS ALAN\.conda\envs\newtonRaphsonMethodEnv
